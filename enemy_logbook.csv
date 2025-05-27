@@ -1,0 +1,17 @@
+id,genre,type,x_pos,y_pos,map,alive
+1,Wizzrobe,purple_wizzrobe,352,352,6,true
+2,Archer,blue_bokoblin,1689,1784,0,true
+3,Chuchu,blue_chuchu,1695,2272,0,true
+4,Moblin,red_moblin,2783,1072,0,true
+5,Chuchu,blue_chuchu,1563,290,1,true
+6,Chuchu,blue_chuchu,3144,1176,2,true
+7,Chuchu,blue_chuchu,1556,278,5,true
+8,Moblin,red_moblin,1792,604,5,true
+9,Wizzrobe,purple_wizzrobe,392,779,5,true
+10,Archer,blue_bokoblin,548,826,1,true
+11,Archer,blue_bokoblin,908,738,1,true
+12,Archer,blue_bokoblin,728,794,1,true
+13,Moblin,red_moblin,2415,527,1,true
+14,Chuchu,blue_chuchu,2132,926,1,true
+15,Moblin,red_moblin,2423,778,1,true
+16,Moblin,red_moblin,2455,1026,1,true

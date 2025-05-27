@@ -1,0 +1,9 @@
+number,map,player_x,player_y,last_player_x,last_player_y,pv,sword,projectile,enemy_file
+0,2,2408,2226,0,0,300,False,light,original
+1,2,1536.0,2346.0,0.0,0.0,300,False,light,enemy_logbook_save.csv
+2,3,136.0,48,1536.0,2290.0,300,False,light,enemy_logbook_save.csv
+3,2,41.0,1539.0,0,0,300,False,light,enemy_logbook_save.csv
+4,0,1891.0,3768,0,0,125,True,light,enemy_logbook_save.csv
+5,1,1514.0,2202.0,0,0,100,True,light,enemy_logbook_save.csv
+6,6,364.0,239,0,0,300,True,explosion,enemy_logbook_save.csv
+7,6,420.0,471.0,0.0,0.0,25,True,explosion,enemy_logbook_save.csv

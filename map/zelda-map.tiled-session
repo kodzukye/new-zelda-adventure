@@ -1,0 +1,439 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tower_of_death-entrance.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "desert gerudo/ikana",
+        "hyrule/entrance",
+        "hyrule/rocks",
+        "desert gerudo/gerudo",
+        "hyrule",
+        "others",
+        "hyrule/trees",
+        "hyrule/hyrule-field",
+        "desert gerudo"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "desert gerudo/gerudo/cactus_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/gerudo/cactus_02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/gerudo/cactus_03.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/gerudo/gerudo_ground_circle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/gerudo/gerudo_ground_full_circle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/gerudo/gerudo_ground_square_inside_corner.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/gerudo/gerudo_ground_square_outside_corner.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/gerudo/gerudo_house_01.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/gerudo/gerudo_line_left_to_right.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/gerudo/gerudo_line_top_to_bottom.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/gerudo/gerudo_rocky_surface.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/gerudo/gerudo_rocky_surface_circle.tsx": {
+            "scaleInDock": 1
+        },
+        "desert gerudo/gerudo/large_oasis_01.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/gerudo/oasis_01.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/abandon_house_01.tsx": {
+            "scaleInDock": 1
+        },
+        "desert gerudo/ikana/abandon_house_01_3_2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/cliff_to_ikana_down.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/cliff_to_ikana_left.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/cliff_to_ikana_right.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/cliff_to_ikana_up.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/dead_tree_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/dead_tree_02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/dead_tree_03.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/gravestone_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/gravestone_02.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_bottom_cliff.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_ground_circle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_ground_end_path_bottom.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_ground_end_path_left.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_ground_end_path_right.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_ground_end_path_top.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_ground_full_circle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_ground_line_left_to_right.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_ground_line_top_to_bottom.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_ground_outside_corner.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_ground_square_inside_corner.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_river_border_bottom.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_river_border_left.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_river_border_right.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_river_border_top.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_river_center.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_river_corner_bottom_left.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_river_corner_bottom_right.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_river_corner_top_left.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_river_corner_top_right.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_river_edge_bottom_left.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_river_edge_bottom_right.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_river_edge_top_left.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_river_edge_top_right.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "desert gerudo/ikana/ikana_top_cliff.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dunjons/tower of death/dunjon_ground_basic.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dunjons/tower of death/dunjon_ground_basic_borderless.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gerudo.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3512,
+                "y": 3140
+            }
+        },
+        "gerudo_bazaar.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3028.787878787879,
+                "y": 1022.7272727272727
+            }
+        },
+        "gerudo_house.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 280,
+                "y": 447.33333333333326
+            }
+        },
+        "grass_end_path_left.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hyrule.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 6163,
+                "y": 5845
+            }
+        },
+        "hyrule/entrance/entrance.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hyrule/hyrule-field/grass_end_path_bottom.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hyrule/hyrule-field/grass_end_path_left.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hyrule/hyrule-field/grass_end_path_right.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hyrule/hyrule-field/grass_end_path_top.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hyrule/hyrule-field/grass_full.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hyrule/hyrule-field/grass_full_circle_center.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hyrule/hyrule-field/grass_line_left_to_right.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hyrule/hyrule-field/grass_line_top_to_bottom.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hyrule/hyrule-field/grass_turn_bottom_to_right.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hyrule/hyrule-field/grass_turn_left_to_bottom.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hyrule/hyrule-field/grass_turn_left_to_top.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hyrule/hyrule-field/grass_turn_top_to_right.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hyrule/rocks/small_rock_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hyrule/trees/tree_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hyrule/waypoints/waypoint_clean.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "hyrule/waypoints/waypoint_dirty.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ikana.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 4368,
+                "y": 4236
+            }
+        },
+        "others/carpet_cyan.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "others/ladder.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "others/library_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "others/wooden_bridge_end_bottom.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "others/wooden_bridge_end_left.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "others/wooden_bridge_end_right.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "others/wooden_bridge_end_top.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "others/wooden_bridge_middle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "others/wooden_bridge_top_to_bottom.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "south-west-hyrule-field.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 2688,
+                "y": 1006
+            }
+        },
+        "tower_of_death-entrance.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2656,
+                "y": 1180
+            }
+        },
+        "tower_of_death.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 700,
+                "y": 700.5
+            }
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/Kellan/Desktop/BUT Informatique/ANNEE 2/Semestre 3/R3.04 - Qualité de Développement (ELISABETH)/Projet Zelda/map/hyrule/hyrule-field",
+    "last.imagePath": "C:/Users/Kellan/Desktop/BUT Informatique/ANNEE 2/Semestre 3/R3.04 - Qualité de Développement (ELISABETH)/Projet Zelda/map/dunjons/tower of death",
+    "last.worldFilePath": "C:/Users/lpark/Documents/BUT Informatique/Semestre 3/R3.04 - Qualité de développment/Projet Zelda/map",
+    "loadedWorlds": [
+    ],
+    "map.height": 40,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 28,
+    "map.tileWidth": 28,
+    "map.width": 60,
+    "openFiles": [
+        "ikana.tmx",
+        "gerudo.tmx",
+        "gerudo_house.tmx",
+        "south-west-hyrule-field.tmx",
+        "tower_of_death-entrance.tmx",
+        "tower_of_death.tmx"
+    ],
+    "project": "zelda-map.tiled-project",
+    "recentFiles": [
+        "ikana.tmx",
+        "gerudo.tmx",
+        "gerudo_house.tmx",
+        "south-west-hyrule-field.tmx",
+        "tower_of_death.tmx",
+        "tower_of_death-entrance.tmx",
+        "dunjons/tower of death/dunjon_ground_basic_borderless.tsx",
+        "dunjons/tower of death/dunjon_ground_basic.tsx",
+        "hyrule/hyrule-field/grass_full_circle_center.tsx",
+        "hyrule/hyrule-field/grass_turn_left_to_bottom.tsx",
+        "hyrule/hyrule-field/grass_turn_bottom_to_right.tsx",
+        "hyrule/hyrule-field/grass_turn_left_to_top.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 28,
+        "width": 28
+    }
+}
