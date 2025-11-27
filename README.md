@@ -68,4 +68,4 @@ Created as part of a computer science learning project.
 
 ---
 
-*Note: This is an educational project inspired by The Legend of Zelda series. All trademarks are property of their respective owners.*
+*Note: This is an educational project inspired by The Legend of Zelda series. All trademarks are property of their respective owners.* 
