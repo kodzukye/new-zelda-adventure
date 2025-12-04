@@ -64,7 +64,7 @@ This project is a **functional prototype** created as an educational project. Co
 This is a student project and is not actively maintained. However, feel free to fork the repository and experiment with your own features!
 
 ## 👨‍💻 Author
-Created as part of a computer science learning project.
+Created as part of a computer science learning project. 
 
 ---
 
